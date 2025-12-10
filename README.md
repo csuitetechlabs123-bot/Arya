@@ -2,22 +2,22 @@
 
   How i designed this bookcover
 
- 1. Collected the Background Image
+  1.Collected the Background Image
     Searched on Google for a cyber-themed digital tech background, downloaded a high-resolution image, and imported it into Figma.
 
- 2. Set Up the Figma Frame
+  2.Set Up the Figma Frame
     Created a book-cover–sized frame and placed the background image inside it, adjusting the crop and positioning to fit the layout.
 
- 3. Added the Main Title
+  3.Added the Main Title
     Inserted text layers for the title, used bold clean fonts, applied white color for contrast, and center-aligned everything.
 
- 4. Added the Subtitle
+  4.Added the Subtitle
     Added the small descriptive subtitle in yellow to make it visible without overpowering the main heading.
 
- 5. Added the Author Name
+  5.Added the Author Name
     Placed the author name at the bottom in all caps and centered it for balance.
 
- 6. Final Adjustments & Export
+  6.Final Adjustments & Export
     Tweaked spacing, alignment, and contrast for clarity, then exported the final design as a high-quality PNG
     
 
@@ -31,8 +31,28 @@
 
   3.Added the Main Heading Inserted the text “WE ARE HIRING!”, styled it with bold serif fonts, and used a clear hierarchy by pairing it with the smaller “join our     team” subtitle.
 
- 4.Added Domain & Role Sections Created two text blocks—DOMAIN and REQUIRED ROLE—with bullet points using checkmark icons. Kept spacing consistent to maintain     readability.
+ 4.Added Domain & Role Sections Created two text blocks—DOMAIN and REQUIRED ROLE—with bullet points using checkmark icons. Kept spacing consistent to maintain         readability.
 
-  5.Added the Call-to-Action Designed the “Apply now!” line in a highlight color and placed a rounded rectangle at the bottom containing the email address for CV     submission.
+  5.Added the Call-to-Action Designed the “Apply now!” line in a highlight color and placed a rounded rectangle at the bottom containing the email address for CV       submission.
 
   6.Final Alignment & Export Adjusted spacing, aligned all text elements, refined colors for clarity, and exported the final poster as a high-quality jpg
+
+
+  LOGO
+
+  How I Created This Arts & Science Colleges Poster
+
+  1.Gathered the Logos
+    Downloaded all college logos from the GitHub link and organized them for easy use.
+
+  2.Set Up the Canva Layout
+     Opened Canva and created a large poster-sized canvas to fit multiple rows of logos clearly.
+
+  3.Imported and Resized Logos
+     Uploaded all logos to Canva, adjusted their sizes, and maintained equal proportions for a uniform look.
+
+  4.Arranged Everything Neatly
+    Placed the logos in rows, aligned them evenly, ensured clean spacing, and added the title at the top.
+
+  5.Final Adjustments & Export
+    Checked spacing, alignment, and clarity, then exported the completed poster as a high-quality PNG.
