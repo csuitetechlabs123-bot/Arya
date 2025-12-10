@@ -20,6 +20,7 @@
   6.Final Adjustments & Export
     Tweaked spacing, alignment, and contrast for clarity, then exported the final design as a high-quality PNG
     
+    
 
   HIRING POSTER
 
@@ -36,6 +37,7 @@
   5.Added the Call-to-Action Designed the “Apply now!” line in a highlight color and placed a rounded rectangle at the bottom containing the email address for CV       submission.
 
   6.Final Alignment & Export Adjusted spacing, aligned all text elements, refined colors for clarity, and exported the final poster as a high-quality jpg
+  
 
 
   LOGO
