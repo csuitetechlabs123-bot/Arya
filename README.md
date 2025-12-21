@@ -228,3 +228,114 @@ Why Cybersecurity Matters Poster (Designed in Figma)
  7. Sent Reviewed Forms Back
     Shared the reviewed forms back in the same format, including suggestions and rejection remarks.
 
+
+
+ Robotics & STEM Trainers Hiring Poster (Figma)
+
+ 
+ 1. Reviewed the Given Project Content
+    Understood the role requirements, eligibility, and training details provided for schools and colleges.
+
+ 2. Created Poster Frame in Figma
+    Set up a poster-sized frame with a professional STEM-focused layout.
+
+ 3. Designed Visual Elements
+    Added illustrations, icons, and sections to highlight expertise, fresher eligibility, and call-to-action.
+
+ 4. Structured Content Clearly
+    Organized headings, bullet points, and contact details for easy readability.
+
+ 5. Final Check & Export
+    Verified alignment and clarity, then exported the poster in high quality.
+
+
+ CSR Volunteers Needed Poster (Figma)
+
+ 1. Reviewed the Given Project Content
+    Analyzed CSR objectives, volunteer roles, and beneficiary information provided.
+
+ 2. Set Up Layout in Figma
+    Created a colorful, impact-driven poster layout suitable for social responsibility campaigns.
+
+ 3. Added Supporting Visuals
+    Used icons and illustrations to represent community support, impact, and volunteering.
+
+ 4. Organized Information Sections
+    Clearly separated responsibilities, target beneficiaries, and motivation points.
+
+ 5. Final Review & Export
+    Ensured visual balance and exported the final poster.
+
+
+ Experienced Trainers Required Poster (Figma)
+
+ 1. Reviewed the Given Project Content
+    Understood experience requirements, location details, and work conditions.
+
+ 2. Created Minimal Poster Frame
+    Designed a clean and professional layout focusing on clarity and seriousness of the role.
+
+ 3. Structured Key Details
+    Highlighted evaluation rounds, work hours, and participant benefits.
+
+ 4. Applied Consistent Branding
+    Maintained font style, color tone, and branding elements.
+
+ 5. Final Check & Export
+    Reviewed spacing and alignment, then exported the poster.
+
+
+ Robotics & STEM Trainers Hiring Poster (Canva – Redesign)
+
+ 
+ 1. Reviewed the Original Project Content
+    Rechecked the same role details, eligibility criteria, and contact information used in the original design.
+
+ 2. Selected a Suitable Canva Template
+    Chose a clean, professional template aligned with STEM and education hiring themes.
+
+ 3. Recreated the Layout
+    Redesigned the poster by arranging headings, icons, and call-to-action elements using Canva tools.
+
+ 4. Applied Visual Enhancements
+    Adjusted colors, typography, and spacing to improve clarity and visual appeal.
+
+ 5. Final Review & Export
+    Verified content accuracy and exported the poster in high resolution.
+
+
+ CSR Volunteers Needed Poster (Canva – Redesign)
+
+ 1. Reviewed the Given CSR Content
+    Went through the volunteering purpose, target beneficiaries, and support details again.
+
+ 2. Chose an Impact-Focused Canva Layout
+    Selected a template suitable for CSR and social impact communication.
+
+ 3. Redesigned Visual Elements
+    Used Canva illustrations, icons, and shapes to highlight key CSR messages.
+
+ 4. Organized Content Sections
+    Clearly structured responsibilities, motivation points, and contact information.
+
+ 5. Final Check & Export
+    Ensured readability and balance before exporting the final design.
+
+
+ Experienced Trainers Required Poster (Canva – Redesign)
+
+ 1. Reviewed the Original Requirements
+    Reconfirmed experience level, location, timing, and benefits provided.
+
+ 2. Set Up Design in Canva
+    Selected a minimal and professional Canva template for job vacancy announcements.
+
+ 3. Rebuilt the Content Layout
+    Rearranged text blocks and highlights for better flow and emphasis.
+
+ 4. Applied Consistent Styling
+    Maintained uniform fonts, colors, and branding across the poster.
+
+ 5. Final Review & Export
+    Checked alignment and exported the poster in print-ready quality.
+
