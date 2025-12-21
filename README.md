@@ -208,3 +208,23 @@ Why Cybersecurity Matters Poster (Designed in Figma)
  5. Final Check & Export
     Ensured alignment, readability, and consistency, then exported the poster in high quality.
 
+
+
+  CSuite Form Review 
+
+
+ 1. Received Review Form Format
+    Received the official form format  for reviewing submissions.
+
+ 2. Analyzed Submitted Details
+    Carefully checked the filled forms to understand the content, accuracy, and completeness.
+    
+ 4. Added Suggestions Where Needed
+    Provided clear improvement suggestions for forms that required corrections or enhancements.
+    
+ 6. Marked Rejections with Reasons
+    Identified forms that did not meet the requirements and mentioned valid reasons for rejection.
+    
+ 7. Sent Reviewed Forms Back
+    Shared the reviewed forms back in the same format, including suggestions and rejection remarks.
+
