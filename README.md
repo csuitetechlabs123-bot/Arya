@@ -149,3 +149,42 @@
  5. Downloaded the Final Design
     Reviewed the design and downloaded it as a high-quality image
 
+
+
+ Cybersecurity Awareness Poster – What is Cybersecurity? (Designed in Figma)
+
+    
+ 1. Reviewed the Given Content
+    Understood the provided explanation about cybersecurity concepts, importance, and real-world relevance.
+
+ 2. Set Up the Figma Frame
+    Created a poster-sized frame in Figma and selected a clean, tech-themed layout.
+
+ 3. Added AI-Generated Visuals
+    Sourced relevant cybersecurity-themed images using AI tools and placed them appropriately.
+
+ 4. Structured the Information
+    Organized the given content into clear sections with headings, icons, and readable typography.
+
+ 5. Final Alignment & Export
+    Checked spacing, alignment, and consistency, then exported the poster in high resolution.
+
+
+ Cybersecurity Tools Poster (Designed in Figma)
+ 
+ 
+ 1. Analyzed the Provided Tool Content
+    Reviewed the given list of cybersecurity tools and their functions.
+    
+ 2. Created the Layout in Figma
+    Designed a structured poster layout suitable for listing multiple tools clearly.
+    
+ 3. Used AI-Generated Images
+    Added AI-sourced illustrations and icons related to cybersecurity tools.
+    
+ 4. Organized Tools Visually
+    Grouped tools with labels and icons to make the poster easy to understand.
+    
+ 5. Final Review & Export
+    Refined the design, ensured visual balance, and exported the final poster.
+
