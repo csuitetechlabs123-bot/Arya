@@ -339,3 +339,43 @@ Why Cybersecurity Matters Poster (Designed in Figma)
  5. Final Review & Export
     Checked alignment and exported the poster in print-ready quality.
 
+
+
+
+ Cybersecurity – Immediate Trainer Hiring Poster (Canva)
+
+ 
+ 1. Reviewed the Given Hiring Content
+   Understood the immediate requirement, trainer role details, and eligibility criteria provided.
+
+ 2. Selected a Canva Template
+   Chose a tech-focused Canva template suitable for cybersecurity training roles.
+
+ 3. Designed the Poster Layout
+    Arranged headings, role highlights, and call-to-action clearly for quick attention.
+
+ 4. Applied Visual & Text Enhancements
+    Used icons, color contrast, and typography to emphasize urgency and clarity.
+
+ 5. Final Review & Export
+   Checked content accuracy and visual balance, then exported the poster in high quality.
+
+
+ Hiring Poster for Multiple Domains (Canva)
+
+
+ 1. Reviewed the Provided Domain Content
+    Analyzed the different domains, role requirements, and hiring details shared.
+
+ 2. Chose a Flexible Canva Layout
+    Selected a template that supports listing multiple domains clearly.
+
+ 3. Structured Domain-Wise Information
+    Organized each domain with clear headings and bullet points for easy understanding.
+
+ 4. Maintained Consistent Design Style
+    Applied uniform fonts, colors, and spacing across all domain sections.
+
+ 5. Final Check & Export
+    Verified readability and alignment, then exported the final poster.
+
