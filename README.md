@@ -188,3 +188,23 @@
  5. Final Review & Export
     Refined the design, ensured visual balance, and exported the final poster.
 
+
+
+Why Cybersecurity Matters Poster (Designed in Figma)
+
+
+ 1. Understood the Given Content
+    Reviewed the provided points explaining the importance of cybersecurity in protecting data, systems, and users.
+
+ 2. Created the Frame in Figma
+    Set up a poster-sized frame in Figma with a clean and professional tech-focused layout.
+
+ 3. Added AI-Sourced Visuals
+   Used AI-generated images and icons related to digital safety and cyber protection.
+
+ 4. Organized the Key Points
+    Arranged the given content into clear sections with proper headings, typography, and visual balance.
+
+ 5. Final Check & Export
+    Ensured alignment, readability, and consistency, then exported the poster in high quality.
+
