@@ -76,3 +76,76 @@
  Step 4: Designed Clear District Sections
          Added headers for each district and arranged the logos neatly under each section, maintaining equal spacing and alignment.
 
+
+ Job Hiring Poster – Blue Theme (Designed in Figma)
+ 
+ 1. Collected Job Requirements
+    Gathered company details, training domains, experience criteria, and contact information.
+
+ 2. Created the Figma Frame
+    Set up a vertical poster frame in Figma and applied a blue gradient background for a professional look.
+
+ 4. Designed the Main Visual
+    Added the “WE’RE HIRING” headline with a silhouette graphic to create a strong visual focus.
+
+ 5. Added Content Sections
+    Listed training domains, experience requirements, and contact details with clear font hierarchy.
+
+ 6. Final Review & Export
+    Aligned all elements properly and exported the poster as a high-quality image.
+
+
+ College Logos Collection 
+ 
+ 1. Collected Logos
+    Downloaded multiple college logos from GitHub and other sources.
+    
+ 2. Used a Single Large Canvas
+    Opened the file on a large canvas to display all logos on one page.
+
+ 3. Arranged Logos Systematically
+    Placed logos in rows with consistent spacing and size for clarity.
+
+ 4. Maintained Uniformity
+    Ensured all logos were evenly aligned without distortion.
+
+ 5. Saved as a Reference Page
+    Exported the file as a single page containing all logos for reference purposes.
+
+    
+
+ Job Hiring Poster – Black & Yellow Theme (Designed in Figma)
+ 
+ 1. Prepared Content & Branding
+    Collected job details, training domains, and company branding elements.
+
+ 2. Designed the Poster Layout
+    Created a dark background layout in Figma with yellow highlights for contrast.
+
+ 3. Structured the Information
+    Added headings, domain lists, work conditions, and eligibility details clearly.
+    
+ 4. Highlighted Key Points
+    Emphasized “Immediate Joining” and experience requirements using visual markers.
+    
+ 5. Final Touches & Export
+    Refined spacing and typography, then exported the poster in high resolution.
+
+    
+ Job Hiring Poster – Red Theme (Designed in Canva)
+ 
+ 1. Gathered Job Details
+    Collected role information, required experience, and domain list.
+
+ 2. Set Up Canva Canvas
+    Created a poster-sized layout in Canva with a red color theme.
+
+ 3. Added Text & Graphics
+    Inserted headings, shapes, icons, and content using Canva design tools.
+    
+ 4. Balanced the Layout
+    Adjusted spacing, alignment, and font sizes for better readability.
+    
+ 5. Downloaded the Final Design
+    Reviewed the design and downloaded it as a high-quality image
+
