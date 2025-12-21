@@ -58,3 +58,21 @@
 
   5.Final Adjustments & Export
     Checked spacing, alignment, and clarity, then exported the completed poster as a high-quality PNG.
+
+
+   DISTRICT WISE LOGO
+
+  How I Created the District-Wise College Logos Poster
+
+  Step 1: Collected Logos for Each District
+          Downloaded college logos district by district using official GitHub resources and organized them into separate folders for easier arrangement.
+
+  Step 2: Set Up the Layout in Canva
+          Opened Canva and created a large poster-sized canvas suitable for displaying multiple grouped sections.
+
+ Step 3: Imported and Organized Logos
+         Uploaded the logos into Canva, resized them uniformly, and grouped them according to their respective districts.
+
+ Step 4: Designed Clear District Sections
+         Added headers for each district and arranged the logos neatly under each section, maintaining equal spacing and alignment.
+
