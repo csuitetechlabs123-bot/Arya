@@ -379,3 +379,51 @@ Why Cybersecurity Matters Poster (Designed in Figma)
  5. Final Check & Export
     Verified readability and alignment, then exported the final poster.
 
+
+ Index Page with Registration Form (HTML)
+ 
+ 1. Understood HTML Fundamentals
+    Learned the structure of an HTML document, including doctype, html, head, and body tags.
+    
+ 2. Created the Index Page Layout
+    Built a basic index page using headings, paragraphs, and proper semantic structure.
+    
+ 3. Designed the Registration Form
+    Created a user registration form using form elements such as input fields, labels, and buttons.
+    
+ 4. Used Appropriate Input Types
+    Implemented different input types like text, email, password, and submit to improve form functionality.
+    
+ 5. Applied Form Attributes
+    Added attributes such as required, placeholder, and name to enhance user experience and validation.
+    
+ 6. Ensured Clean Code Structure
+    Maintained proper indentation and organized tags for better readability and maintainability.
+
+ 7. Tested the Page in Browser
+    Opened the page in a browser, tested form behavior, and corrected minor issues.
+
+
+ Event Website (HTML)
+ 
+ 1. Planned Event Website Content
+    Identified and structured event details such as event name, description, date, time, and venue.
+
+ 2. Created the HTML Page Structure
+   Set up the basic HTML skeleton and divided content into meaningful sections.
+
+ 3. Added Event Information Sections
+    Used headings, paragraphs, and lists to clearly present event details.
+
+ 4. Implemented Navigation Elements
+    Added links and anchor tags for better content flow within the page.
+
+ 5. Used Lists and Media Elements
+    Included ordered/unordered lists and basic media elements where required.
+
+ 6. Maintained Semantic & Clean HTML
+     Used appropriate HTML tags and consistent formatting throughout the code.
+
+ 7. Final Review & Browser Testing
+     Reviewed the entire page, tested it in the browser, and fixed alignment or content issues
+
